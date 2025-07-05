@@ -4,6 +4,7 @@
 ---  
 ## About Me  
 ![](/media/developer%20coding%20on%20laptop.avif) 
+
 Hi there! I'm **Ahmed Shahid**, a passionate AI and software development student. I'm pursuing a *BS in Artificial Intelligence* at SZABIST (2023–2027) and a *Diploma in Cloud Applied Agentic AI Engineering* at GIAIC (2024–2026). I thrive on learning new technologies quickly and working collaboratively to solve problems. In particular, I enjoy combining AI with creativity — for example, in my **TasteBot** project I used GPT-2 to generate recipe instructions and Gradio for an interactive web interface . Check Out Here [TasteBot (Cusom GPT for Culinary Assistance)](https://github.com/ahmed-shahidd/Custom-Gpt-TasteBot-)
 
 ---  
@@ -34,11 +35,6 @@ I've worked on a variety of projects that showcase my skills in AI, software, an
 ## Education  
 - **BS in Artificial Intelligence** — SZABIST (2023–2027)  
 - **Diploma in Cloud Applied Generative AI Engineering** — GIAIC (2024–2026)  
-
----  
-## Certifications & Achievements  
-- **Portable AI Project Display** (Certificate, SZABIST)  
-- **Logic Design Competition** — Runner-up (SZABIST)  
 
 ---  
 ## Contact  
