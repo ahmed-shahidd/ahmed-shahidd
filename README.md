@@ -1,6 +1,6 @@
 
 # Ahmed Shahid  
-* AI Engineer **  
+## AI Engineer   
 ---  
 ## About Me  
 ![](/media/developer%20coding%20on%20laptop.avif)
